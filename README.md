@@ -15,14 +15,21 @@ To write a program to find the exponentiation of a number.
 ```
 /*
 Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
+Developed by: Janani R
+RegisterNumber: 21500825
 */
+
+x=int(input())
+def exp():
+    exp=x**2
+    return exp
+print("Exponentiation of a given number:",exp())
+
 ```
 
 ## Output:
 ![exponentiation of a number](expo.png)
-
+![exponentiation of a number](exponentiation.png)
 
 ## Result:
 Thus the program to find the exponentiation of a given number is written and verified using python programming.
